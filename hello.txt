@@ -1,4 +1,7 @@
-Hello!hellooo!new hello!!!
+Hello!
 Welcom!
+<<<<<<< HEAD
  !!!!My name is Kate -------
  delete delete 
+---------------
+my new change
